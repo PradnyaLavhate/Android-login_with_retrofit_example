@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_padding_left_right">20dp</dimen>
+    <dimen name="textview_padding_top_bottom">15dp</dimen>
+    <dimen name="edittext_padding_left_right">15dp</dimen>
+    <dimen name="edittext_padding_top_bottom">15dp</dimen>
+    <dimen name="login_btn_padding_left_right">35dp</dimen>
+    <dimen name="login_btn_padding_top_bottom">20dp</dimen>
+</resources>
